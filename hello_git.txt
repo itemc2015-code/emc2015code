@@ -2,3 +2,4 @@ ECHO is on.
 
 name: mark ad
 favorites
+color: blue
