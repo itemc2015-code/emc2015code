@@ -3,3 +3,4 @@ ECHO is on.
 name: mark ad
 favorites
 color: white
+fruit: banana
