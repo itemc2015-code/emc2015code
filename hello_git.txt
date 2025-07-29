@@ -4,7 +4,7 @@ name: mark ad
 
 favorites
 color: white
-fruit: banana, orange
+fruit: banana, orange, apple
 food: kare-kare
 sport: barketball
 game: 8ball pool
