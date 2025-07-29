@@ -7,5 +7,6 @@ color: white
 fruit: banana, orange
 food:kare-kare
 sport: barketball
+game: 8ball pool
 
 
