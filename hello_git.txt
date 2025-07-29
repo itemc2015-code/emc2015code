@@ -5,5 +5,11 @@ name: mark ad
 favorites
 color: white
 fruit: banana, orange
+<<<<<<< HEAD
 food: kare-kare
+=======
+food:kare-kare
+sport: barketball
+
+>>>>>>> origin/main
 
